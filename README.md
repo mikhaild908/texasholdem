@@ -1,2 +1,2 @@
 # texasholdem
-Texas Hold 'Em
+Texas Hold 'Em - Typescript

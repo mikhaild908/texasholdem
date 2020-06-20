@@ -1,0 +1,19 @@
+{
+  "name": "texasholdem",
+  "version": "1.0.0",
+  "description": "TexasHoldEm game written in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Texas",
+    "Hold",
+    "Em"
+  ],
+  "author": "Mike D",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.3.38"
+  }
+}
